@@ -1,4 +1,11 @@
 .fondo{
-	background-color: #172852;
+	background-color: #38A1E2;
 } 
 	/* Empty. Add your own CSS if you like */
+div h2{
+	color: #D4DDE3;
+	font-size: 26px;
+}
+.inicio {
+	text-align: center;
+}
