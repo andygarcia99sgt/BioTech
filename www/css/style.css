@@ -1,10 +1,10 @@
 .fondo{
-	background-color: #38A1E2;
+	background-color: #3B42A9;
 } 
 	/* Empty. Add your own CSS if you like */
 div h2{
 	color: #D4DDE3;
-	font-size: 26px;
+	font-size: 20px;
 }
 .inicio {
 	text-align: center;
@@ -26,4 +26,18 @@ canvas {
   display: block;
   margin: 20px auto;
   background: black url("http://api.thumbr.it/whitenoise-560x800.png?background=0f1517ff&noise=626262&density=67&opacity=15") repeat fixed center;
+}
+.fondo2 {
+  background-color: #292B3E;
+}
+div p{
+  color: #CCC;
+  font-size: 50PX;
+}
+div h3{
+  font-size: 60px;
+
+}
+.fondo3{
+  background-color: #292B3E;
 }
