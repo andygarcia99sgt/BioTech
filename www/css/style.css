@@ -39,5 +39,11 @@ div h3{
 
 }
 .fondo3{
-  background-color: #292B3E;
+  background-color: #610457;
+}
+h4 {
+  color: #CCC;
+  font-size: 60PX;
+  padding-right: 100px;
+  padding-left: 100px;
 }
